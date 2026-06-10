@@ -1,0 +1,17 @@
+2026/06/10-13:24:07.797 6950 Creating DB C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/06/10-13:24:07.819 6950 Reusing MANIFEST C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/10-13:43:43.557 1a7c Level-0 table #5: started
+2026/06/10-13:43:43.570 1a7c Level-0 table #5: 78949 bytes OK
+2026/06/10-13:43:43.576 1a7c Delete type=0 #3
+2026/06/10-13:44:35.197 6950 Level-0 table #7: started
+2026/06/10-13:44:35.201 6950 Level-0 table #7: 78536 bytes OK
+2026/06/10-13:44:35.206 6950 Delete type=0 #4
+2026/06/10-13:45:58.691 4e54 Level-0 table #9: started
+2026/06/10-13:45:58.696 4e54 Level-0 table #9: 83106 bytes OK
+2026/06/10-13:45:58.702 4e54 Delete type=0 #6
+2026/06/10-13:47:00.737 6950 Level-0 table #11: started
+2026/06/10-13:47:00.741 6950 Level-0 table #11: 66834 bytes OK
+2026/06/10-13:47:00.747 6950 Delete type=0 #8
+2026/06/10-13:47:38.483 4e54 Level-0 table #13: started
+2026/06/10-13:47:38.496 4e54 Level-0 table #13: 70414 bytes OK
+2026/06/10-13:47:38.501 4e54 Delete type=0 #10
