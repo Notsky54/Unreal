@@ -1,17 +1,17 @@
-2026/06/10-13:24:07.797 6950 Creating DB C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/10-13:24:07.819 6950 Reusing MANIFEST C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/10-13:43:43.557 1a7c Level-0 table #5: started
-2026/06/10-13:43:43.570 1a7c Level-0 table #5: 78949 bytes OK
-2026/06/10-13:43:43.576 1a7c Delete type=0 #3
-2026/06/10-13:44:35.197 6950 Level-0 table #7: started
-2026/06/10-13:44:35.201 6950 Level-0 table #7: 78536 bytes OK
-2026/06/10-13:44:35.206 6950 Delete type=0 #4
-2026/06/10-13:45:58.691 4e54 Level-0 table #9: started
-2026/06/10-13:45:58.696 4e54 Level-0 table #9: 83106 bytes OK
-2026/06/10-13:45:58.702 4e54 Delete type=0 #6
-2026/06/10-13:47:00.737 6950 Level-0 table #11: started
-2026/06/10-13:47:00.741 6950 Level-0 table #11: 66834 bytes OK
-2026/06/10-13:47:00.747 6950 Delete type=0 #8
-2026/06/10-13:47:38.483 4e54 Level-0 table #13: started
-2026/06/10-13:47:38.496 4e54 Level-0 table #13: 70414 bytes OK
-2026/06/10-13:47:38.501 4e54 Delete type=0 #10
+2026/06/10-16:13:57.574 8f4 Reusing MANIFEST C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/10-16:13:57.575 8f4 Recovering log #12
+2026/06/10-16:13:57.576 8f4 Level-0 table #15: started
+2026/06/10-16:13:57.581 8f4 Level-0 table #15: 77622 bytes OK
+2026/06/10-16:13:57.588 8f4 Delete type=0 #12
+2026/06/10-16:13:57.589 1f68 Compacting 4@0 + 1@1 files
+2026/06/10-16:13:57.600 1f68 Generated table #17@0: 3 keys, 27200 bytes
+2026/06/10-16:13:57.600 1f68 Compacted 4@0 + 1@1 files => 27200 bytes
+2026/06/10-16:13:57.602 1f68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/10-16:13:57.603 1f68 Delete type=2 #7
+2026/06/10-16:13:57.603 1f68 Delete type=2 #9
+2026/06/10-16:13:57.603 1f68 Delete type=2 #11
+2026/06/10-16:13:57.603 1f68 Delete type=2 #13
+2026/06/10-16:13:57.603 1f68 Delete type=2 #15
+2026/06/10-16:17:15.786 1f00 Level-0 table #19: started
+2026/06/10-16:17:15.798 1f00 Level-0 table #19: 86788 bytes OK
+2026/06/10-16:17:15.801 1f00 Delete type=0 #16

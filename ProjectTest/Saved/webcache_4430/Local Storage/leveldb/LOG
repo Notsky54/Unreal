@@ -1,17 +1,8 @@
-2026/06/10-16:13:57.574 8f4 Reusing MANIFEST C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/10-16:13:57.575 8f4 Recovering log #12
-2026/06/10-16:13:57.576 8f4 Level-0 table #15: started
-2026/06/10-16:13:57.581 8f4 Level-0 table #15: 77622 bytes OK
-2026/06/10-16:13:57.588 8f4 Delete type=0 #12
-2026/06/10-16:13:57.589 1f68 Compacting 4@0 + 1@1 files
-2026/06/10-16:13:57.600 1f68 Generated table #17@0: 3 keys, 27200 bytes
-2026/06/10-16:13:57.600 1f68 Compacted 4@0 + 1@1 files => 27200 bytes
-2026/06/10-16:13:57.602 1f68 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/10-16:13:57.603 1f68 Delete type=2 #7
-2026/06/10-16:13:57.603 1f68 Delete type=2 #9
-2026/06/10-16:13:57.603 1f68 Delete type=2 #11
-2026/06/10-16:13:57.603 1f68 Delete type=2 #13
-2026/06/10-16:13:57.603 1f68 Delete type=2 #15
-2026/06/10-16:17:15.786 1f00 Level-0 table #19: started
-2026/06/10-16:17:15.798 1f00 Level-0 table #19: 86788 bytes OK
-2026/06/10-16:17:15.801 1f00 Delete type=0 #16
+2026/06/11-14:58:05.504 7c4 Reusing MANIFEST C:/Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-14:58:05.506 7c4 Recovering log #18
+2026/06/11-14:58:05.507 7c4 Level-0 table #21: started
+2026/06/11-14:58:05.512 7c4 Level-0 table #21: 62767 bytes OK
+2026/06/11-14:58:05.517 7c4 Delete type=0 #18
+2026/06/11-14:59:44.831 36e0 Level-0 table #24: started
+2026/06/11-14:59:44.836 36e0 Level-0 table #24: 65286 bytes OK
+2026/06/11-14:59:44.840 36e0 Delete type=0 #22
