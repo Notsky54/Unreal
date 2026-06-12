@@ -3905,3 +3905,54 @@ Script Stack (0 frames) :
 [2026.06.12-13.58.23:936][841]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.12-13.58.23:936][841]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.12-13.58.23:936][841]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validation de la ressource
+[2026.06.12-13.59.07:297][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.12-13.59.08:346][279]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2026.06.12-13.59.08:356][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.12-13.59.08:433][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Quinn/Crouch_Idle] ([1] browsable assets)...
+[2026.06.12-13.59.08:433][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Quinn/Crouch_Idle]
+[2026.06.12-13.59.08:444][279]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/Crouch_Idle
+[2026.06.12-13.59.08:444][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Crouch_Idle8B620D3540A55086ACFDC0B0AD645E2C.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/Characters/Mannequins/Animations/Quinn/Crouch_Idle.uasset'
+[2026.06.12-13.59.08:562][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Quinn/Crouch_Walk] ([1] browsable assets)...
+[2026.06.12-13.59.08:562][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Quinn/Crouch_Walk]
+[2026.06.12-13.59.08:573][279]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/Crouch_Walk
+[2026.06.12-13.59.08:573][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Crouch_Walk7F1DCCBA4DD273DCE5794BBD91259DA2.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/Characters/Mannequins/Animations/Quinn/Crouch_Walk.uasset'
+[2026.06.12-13.59.08:692][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Jog_Bwd_Rifle] ([1] browsable assets)...
+[2026.06.12-13.59.08:692][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Jog_Bwd_Rifle]
+[2026.06.12-13.59.08:692][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Bwd_Rifle" FILE="../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2026.06.12-13.59.08:698][279]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Jog_Bwd_Rifle
+[2026.06.12-13.59.08:698][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Jog_Bwd_RifleBC9CF2D6411B8E25E7AF8996D018B6E6.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2026.06.12-13.59.08:700][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Jog_Fwd_Rifle] ([1] browsable assets)...
+[2026.06.12-13.59.08:700][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Jog_Fwd_Rifle]
+[2026.06.12-13.59.08:700][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Fwd_Rifle" FILE="../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2026.06.12-13.59.08:705][279]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Jog_Fwd_Rifle
+[2026.06.12-13.59.08:706][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Jog_Fwd_Rifle338B50E54B8C405A1265B488142D3AE2.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2026.06.12-13.59.08:707][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Jog_Lt_Rifle] ([1] browsable assets)...
+[2026.06.12-13.59.08:707][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Jog_Lt_Rifle]
+[2026.06.12-13.59.08:707][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Lt_Rifle" FILE="../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2026.06.12-13.59.08:713][279]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Jog_Lt_Rifle
+[2026.06.12-13.59.08:714][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Jog_Lt_RifleBFF4F7CC469D4753ACACB680A218EB51.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2026.06.12-13.59.08:715][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Jog_Rt_Rifle] ([1] browsable assets)...
+[2026.06.12-13.59.08:715][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Jog_Rt_Rifle]
+[2026.06.12-13.59.08:715][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Rt_Rifle" FILE="../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2026.06.12-13.59.08:720][279]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Jog_Rt_Rifle
+[2026.06.12-13.59.08:721][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/Jog_Rt_Rifle288DD63F45879190780E7B8757DEB416.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2026.06.12-13.59.08:723][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MW/DEH8SJHXCDXKQ4P35IEHOP
+[2026.06.12-13.59.08:723][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/DEH8SJHXCDXKQ4P35IEHOP90C9007E430754CCBA8647BA686F9179.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MW/DEH8SJHXCDXKQ4P35IEHOP.uasset'
+[2026.06.12-13.59.08:726][279]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/75PJQ3ZUBG70GRE7R5SQ3P
+[2026.06.12-13.59.08:726][279]LogSavePackage: Moving '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Saved/75PJQ3ZUBG70GRE7R5SQ3P6950D6ED4D9E2DCC8B4B319D1F094413.tmp' to '../../../../../../Users/kfilet/Documents/GitHub/Unreal/ProjectTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/75PJQ3ZUBG70GRE7R5SQ3P.uasset'
+[2026.06.12-13.59.08:737][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 380.871 ms (total: 5.09 sec)
+[2026.06.12-13.59.08:819][279]LogContentValidation: Display: Starting to validate 8 assets
+[2026.06.12-13.59.08:820][279]LogContentValidation: Enabled validators:
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.12-13.59.08:820][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/Characters/Mannequins/Animations/Quinn/Crouch_Idle Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/Characters/Mannequins/Animations/Quinn/Crouch_Walk Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/AnimStarterPack/Jog_Bwd_Rifle Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/AnimStarterPack/Jog_Fwd_Rifle Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/AnimStarterPack/Jog_Lt_Rifle Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/AnimStarterPack/Jog_Rt_Rifle Validation de la ressource
+[2026.06.12-13.59.08:821][279]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validation de la ressource
